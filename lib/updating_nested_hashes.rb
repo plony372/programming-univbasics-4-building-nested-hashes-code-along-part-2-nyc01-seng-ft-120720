@@ -51,7 +51,7 @@ def add_characters
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       },
-      :additional_characters => [{:name "Prine Escalus"}, {:name "Apothecary"}]
+      :additional_characters => [{name: "Prine Escalus"}, {name: "Apothecary"}]
    }
 
    # Write code below that does the following programmatically:
